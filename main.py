@@ -3,6 +3,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import markdownify as md
+import numpy as np
 from ydata_profiling import ProfileReport
 
 
@@ -19,13 +20,12 @@ def summary():
 def points_plot():
     """provides visualization"""
     accurate = df[df["3P%"] >= 0.5]
-    player_rank = accurate["Player"].astype(str) + ", " + accurate["3P%"].astype(str)
-    plt.bar(player_rank, accurate["PTS"], color="green", width=0.9)
-    plt.xticks(rotation="vertical")
-    plt.xlabel("Players and 3P%")
-    plt.ylabel("PPG")
-    plt.title("PPG for Players with higher than 50% 3P%")
-    plt.subplots_adjust(bottom=0.43)
+    player_rank = accurate["Player"].astype(str)
+    plt.barh(player_rank, width=accurate["PTS"], color="green")
+    plt.xlabel("PPG")
+    plt.ylabel("Players")
+    plt.title("PPG for Players with 50% or higher 3P%")
+    plt.subplots_adjust(left=0.25)
     plt.savefig("NBA_pts_bar.png")
     plt.show()
 
@@ -40,4 +40,4 @@ def report():
 
 
 points_plot()
-report()
+# report()

@@ -10,6 +10,7 @@ lint:
 
 test:
 	python -m pytest -cov=main test_main.py
+	py.test --nbval
 
 all: 
 	install format lint test
