@@ -1,12 +1,16 @@
 # First_project
 Data engineering gitlab template
 
+install badge
 [![CI](https://github.com/nogibjj/First_project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/install.yml)
 
+lint badge
 [![CI](https://github.com/nogibjj/First_project/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/lint.yml)
 
+test badge
 [![CI](https://github.com/nogibjj/First_project/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/test.yml)
 
+format badge
 [![CI](https://github.com/nogibjj/First_project/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/format.yml)
 
 
