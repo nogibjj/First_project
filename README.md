@@ -1,17 +1,13 @@
 # First_project
 Data engineering gitlab template
 
-install badge
-[![CI](https://github.com/nogibjj/First_project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/install.yml)
+[![Install](https://github.com/nogibjj/First_project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/install.yml)
 
-lint badge
-[![CI](https://github.com/nogibjj/First_project/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/lint.yml)
+[![Lint](https://github.com/nogibjj/First_project/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/lint.yml)
 
-test badge
-[![CI](https://github.com/nogibjj/First_project/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/test.yml)
+[![Test](https://github.com/nogibjj/First_project/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/test.yml)
 
-format badge
-[![CI](https://github.com/nogibjj/First_project/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/format.yml)
+[![Format](https://github.com/nogibjj/First_project/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/format.yml)
 
 
 Requirements
@@ -35,12 +31,17 @@ Required Files
 - devcontainer
     - devcontainer.json
         - contains docker container for python 3 dependencies
-- main.py
+- script.py
     - contains code to use pandas to read dataset, generate summary statistics, visualization, and a report
-- test_main.py
+- test_script.py
     - contains code to test main.py file
-- hello.yml
+- test_lib.py
+- lib.py
+- install.yml
     - provides the functionality to do CI runs
+- lint.yml
+- test.yml
+- format.yml
 - .gitignore
     - ignores unecessary files and programs to prevent installation conflicts
 

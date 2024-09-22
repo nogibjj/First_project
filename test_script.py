@@ -1,6 +1,6 @@
 """ file for testing code"""
 
-from main import summary, points_plot
+from script import summary, points_plot
 
 
 def test_summary():
