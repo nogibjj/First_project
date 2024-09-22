@@ -6,11 +6,11 @@ format:
 
 #checks python files
 lint:
-	pylint --ignore-patterns=test_main.*?py *.py
+	pylint --ignore-patterns=test_script.*?py *.py
 	ruff check
 
 test:
-	python -m pytest -cov=main test_main.py 
+	python -m pytest -cov=main test_script.py 
 	py.test --nbval
 
 all: 
