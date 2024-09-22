@@ -3,7 +3,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import markdownify as md
-import numpy as np
 from ydata_profiling import ProfileReport
 
 
@@ -40,4 +39,4 @@ def report():
 
 
 points_plot()
-# report()
+report()
