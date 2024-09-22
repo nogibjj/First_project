@@ -4,10 +4,12 @@ from main import summary, points_plot
 
 
 def test_summary():
+    """test descriptive statistics function"""
     summary()
 
 
 def test_plot():
+    """test plot function"""
     points_plot()
 
 
