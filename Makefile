@@ -6,7 +6,7 @@ format:
 
 #checks python files
 lint:
-	pylint --ignore-patterns=test_script.*?py *.py, test_lib.*?py *.py
+	pylint --ignore-patterns=test_*.py *.py
 	ruff check
 
 test:
