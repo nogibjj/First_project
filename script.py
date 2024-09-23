@@ -1,23 +1,23 @@
 """main file with main functions"""
 
-import pandas as pd
+from lib import load_data
 import matplotlib.pyplot as plt
 import markdownify as md
 from ydata_profiling import ProfileReport
 
-
-FILE_PATH = "NBA_24_stats.csv"
-df = pd.read_csv(FILE_PATH)
+data = "NBA_24_stats.csv"
 
 
-def summary():
+def summary(dataset):
     """provides summary statistics"""
+    df = load_data(dataset)
     summary_stats = df.describe()
     print(summary_stats)
 
 
-def points_plot():
+def points_plot(dataset):
     """provides visualization"""
+    df = load_data(dataset)
     accurate = df[df["3P%"] >= 0.5]
     player_rank = accurate["Player"].astype(str)
     plt.barh(player_rank, width=accurate["PTS"], color="green")
@@ -29,8 +29,9 @@ def points_plot():
     plt.show()
 
 
-def report():
+def report(dataset):
     "generates report and converts to pdf"
+    df = load_data(dataset)
     profile = ProfileReport(df, title="NBA Statistics")
     export = profile.to_html()
     markdown = md.markdownify(export)
@@ -38,5 +39,7 @@ def report():
         f_write.write(markdown)
 
 
-points_plot()
-report()
+if __name__ == "__main__":
+    summary(data)
+    points_plot(data)
+    report(data)

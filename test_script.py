@@ -5,12 +5,14 @@ from script import summary, points_plot
 
 def test_summary():
     """test descriptive statistics function"""
-    summary()
+    data = "NBA_24_stats.csv"
+    summary(data)
 
 
 def test_plot():
     """test plot function"""
-    points_plot()
+    data = "NBA_24_stats.csv"
+    points_plot(data)
 
 
 if __name__ == "__main__":

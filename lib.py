@@ -1,7 +1,9 @@
 """file for modules"""
 
+import pandas as pd
 
-def summary(dataframe):
-    """provides summary statistics"""
-    summary_stats = dataframe.describe()
-    print(summary_stats)
+
+def load_data(dataset):
+    "load data from csv into pandas dataframe"
+    data = pd.read_csv(dataset)
+    return data
