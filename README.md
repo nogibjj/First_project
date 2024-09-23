@@ -1,5 +1,5 @@
 # First_project
-Data engineering gitlab template
+Data engineering individual project #1
 
 [![Install](https://github.com/nogibjj/First_project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/First_project/actions/workflows/install.yml)
 
@@ -65,3 +65,7 @@ Steps
 - create script.py file containing python script to load in CSV file, create summary statistics, plot visualization, and generate a summary report
 - test script.py file by making a test_script.py file
 - perform a CI/CD run verifying that the code has passed all the linters and tests
+
+Video Walkthrough:
+
+https://youtu.be/hxRWFt41aqw

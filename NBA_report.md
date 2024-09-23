@@ -42,75 +42,75 @@ Variable types
 Alerts
 
 | Dataset has 1 (0\.1%) [duplicate rows](#duplicate) | Duplicates |
-| [`2P`](#pp_var_-4751834513531754145) is highly overall correlated with `2PA` and 17 other fields | High correlation |
-| [`2P%`](#pp_var_-3861510917937348449) is highly overall correlated with `FG%` and 1 other fields | High correlation |
-| [`2PA`](#pp_var_-3261584677097445518) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`3P`](#pp_var_1843333132339033981) is highly overall correlated with `3P%` and 11 other fields | High correlation |
-| [`3P%`](#pp_var_2063935364415313493) is highly overall correlated with `3P` and 1 other fields | High correlation |
-| [`3PA`](#pp_var_-7471117451605213244) is highly overall correlated with `3P` and 9 other fields | High correlation |
-| [`AST`](#pp_var_-5798181679693878514) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`BLK`](#pp_var_-1760098733051661981) is highly overall correlated with `2P` and 12 other fields | High correlation |
-| [`DRB`](#pp_var_-5577853146699564361) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`FG`](#pp_var_8806392116977775315) is highly overall correlated with `2P` and 18 other fields | High correlation |
-| [`FG%`](#pp_var_4050168102168301340) is highly overall correlated with `2P` and 3 other fields | High correlation |
-| [`FGA`](#pp_var_1319990029546878149) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`FT`](#pp_var_2865802384739758464) is highly overall correlated with `2P` and 17 other fields | High correlation |
-| [`FTA`](#pp_var_-7031540272212084250) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`G`](#pp_var_-5901123382861386033) is highly overall correlated with `2P` and 14 other fields | High correlation |
-| [`GS`](#pp_var_8652085826295855263) is highly overall correlated with `2P` and 18 other fields | High correlation |
-| [`MP`](#pp_var_7396509399615182588) is highly overall correlated with `2P` and 18 other fields | High correlation |
-| [`ORB`](#pp_var_-8760638760003401376) is highly overall correlated with `2P` and 11 other fields | High correlation |
-| [`PF`](#pp_var_-3739663196635928373) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`PTS`](#pp_var_3043194294106382067) is highly overall correlated with `2P` and 18 other fields | High correlation |
-| [`STL`](#pp_var_3354011504831857172) is highly overall correlated with `2P` and 15 other fields | High correlation |
-| [`TOV`](#pp_var_5012703423628741254) is highly overall correlated with `2P` and 17 other fields | High correlation |
-| [`TRB`](#pp_var_2637892280950118075) is highly overall correlated with `2P` and 16 other fields | High correlation |
-| [`eFG%`](#pp_var_9022928779212863167) is highly overall correlated with `2P%` and 2 other fields | High correlation |
-| [`FG%`](#pp_var_4050168102168301340) has 11 (1\.5%) missing values | Missing |
-| [`3P%`](#pp_var_2063935364415313493) has 49 (6\.6%) missing values | Missing |
-| [`2P%`](#pp_var_-3861510917937348449) has 16 (2\.2%) missing values | Missing |
-| [`eFG%`](#pp_var_9022928779212863167) has 11 (1\.5%) missing values | Missing |
-| [`FT%`](#pp_var_-5790657214830010527) has 62 (8\.4%) missing values | Missing |
-| [`Awards`](#pp_var_6188178778448003796) has 684 (92\.6%) missing values | Missing |
-| [`GS`](#pp_var_8652085826295855263) has 253 (34\.2%) zeros | Zeros |
-| [`FG`](#pp_var_8806392116977775315) has 19 (2\.6%) zeros | Zeros |
-| [`FGA`](#pp_var_1319990029546878149) has 8 (1\.1%) zeros | Zeros |
-| [`FG%`](#pp_var_4050168102168301340) has 11 (1\.5%) zeros | Zeros |
-| [`3P`](#pp_var_1843333132339033981) has 114 (15\.4%) zeros | Zeros |
-| [`3PA`](#pp_var_-7471117451605213244) has 60 (8\.1%) zeros | Zeros |
-| [`3P%`](#pp_var_2063935364415313493) has 53 (7\.2%) zeros | Zeros |
-| [`2P`](#pp_var_-4751834513531754145) has 33 (4\.5%) zeros | Zeros |
-| [`2PA`](#pp_var_-3261584677097445518) has 13 (1\.8%) zeros | Zeros |
-| [`2P%`](#pp_var_-3861510917937348449) has 20 (2\.7%) zeros | Zeros |
-| [`eFG%`](#pp_var_9022928779212863167) has 11 (1\.5%) zeros | Zeros |
-| [`FT`](#pp_var_2865802384739758464) has 71 (9\.6%) zeros | Zeros |
-| [`FTA`](#pp_var_-7031540272212084250) has 62 (8\.4%) zeros | Zeros |
-| [`FT%`](#pp_var_-5790657214830010527) has 9 (1\.2%) zeros | Zeros |
-| [`ORB`](#pp_var_-8760638760003401376) has 52 (7\.0%) zeros | Zeros |
-| [`DRB`](#pp_var_-5577853146699564361) has 20 (2\.7%) zeros | Zeros |
-| [`TRB`](#pp_var_2637892280950118075) has 15 (2\.0%) zeros | Zeros |
-| [`AST`](#pp_var_-5798181679693878514) has 34 (4\.6%) zeros | Zeros |
-| [`STL`](#pp_var_3354011504831857172) has 51 (6\.9%) zeros | Zeros |
-| [`BLK`](#pp_var_-1760098733051661981) has 101 (13\.7%) zeros | Zeros |
-| [`TOV`](#pp_var_5012703423628741254) has 35 (4\.7%) zeros | Zeros |
-| [`PF`](#pp_var_-3739663196635928373) has 22 (3\.0%) zeros | Zeros |
-| [`PTS`](#pp_var_3043194294106382067) has 17 (2\.3%) zeros | Zeros |
+| [`2P`](#pp_var_-4682706689429240644) is highly overall correlated with `2PA` and 17 other fields | High correlation |
+| [`2P%`](#pp_var_7412547047667818746) is highly overall correlated with `FG%` and 1 other fields | High correlation |
+| [`2PA`](#pp_var_-6322622845979142235) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`3P`](#pp_var_481448932031257517) is highly overall correlated with `3P%` and 11 other fields | High correlation |
+| [`3P%`](#pp_var_-4246905509895948780) is highly overall correlated with `3P` and 1 other fields | High correlation |
+| [`3PA`](#pp_var_5729797768229450615) is highly overall correlated with `3P` and 9 other fields | High correlation |
+| [`AST`](#pp_var_1169916079887250478) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`BLK`](#pp_var_9130039927849350097) is highly overall correlated with `2P` and 12 other fields | High correlation |
+| [`DRB`](#pp_var_536105553434745178) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`FG`](#pp_var_-7889356775689074584) is highly overall correlated with `2P` and 18 other fields | High correlation |
+| [`FG%`](#pp_var_4668266971410069470) is highly overall correlated with `2P` and 3 other fields | High correlation |
+| [`FGA`](#pp_var_-8281516481320456138) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`FT`](#pp_var_5826761821939146888) is highly overall correlated with `2P` and 17 other fields | High correlation |
+| [`FTA`](#pp_var_5900629238680131805) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`G`](#pp_var_8027553765698121497) is highly overall correlated with `2P` and 14 other fields | High correlation |
+| [`GS`](#pp_var_-8364627295145688636) is highly overall correlated with `2P` and 18 other fields | High correlation |
+| [`MP`](#pp_var_7811617083263735027) is highly overall correlated with `2P` and 18 other fields | High correlation |
+| [`ORB`](#pp_var_5047467346979309670) is highly overall correlated with `2P` and 11 other fields | High correlation |
+| [`PF`](#pp_var_-2361496977164541668) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`PTS`](#pp_var_2597962084589159440) is highly overall correlated with `2P` and 18 other fields | High correlation |
+| [`STL`](#pp_var_-8714171492087614519) is highly overall correlated with `2P` and 15 other fields | High correlation |
+| [`TOV`](#pp_var_2467109624279755055) is highly overall correlated with `2P` and 17 other fields | High correlation |
+| [`TRB`](#pp_var_-5838297336820241478) is highly overall correlated with `2P` and 16 other fields | High correlation |
+| [`eFG%`](#pp_var_-6550596550094922580) is highly overall correlated with `2P%` and 2 other fields | High correlation |
+| [`FG%`](#pp_var_4668266971410069470) has 11 (1\.5%) missing values | Missing |
+| [`3P%`](#pp_var_-4246905509895948780) has 49 (6\.6%) missing values | Missing |
+| [`2P%`](#pp_var_7412547047667818746) has 16 (2\.2%) missing values | Missing |
+| [`eFG%`](#pp_var_-6550596550094922580) has 11 (1\.5%) missing values | Missing |
+| [`FT%`](#pp_var_-2389607754451929715) has 62 (8\.4%) missing values | Missing |
+| [`Awards`](#pp_var_82161517271606683) has 684 (92\.6%) missing values | Missing |
+| [`GS`](#pp_var_-8364627295145688636) has 253 (34\.2%) zeros | Zeros |
+| [`FG`](#pp_var_-7889356775689074584) has 19 (2\.6%) zeros | Zeros |
+| [`FGA`](#pp_var_-8281516481320456138) has 8 (1\.1%) zeros | Zeros |
+| [`FG%`](#pp_var_4668266971410069470) has 11 (1\.5%) zeros | Zeros |
+| [`3P`](#pp_var_481448932031257517) has 114 (15\.4%) zeros | Zeros |
+| [`3PA`](#pp_var_5729797768229450615) has 60 (8\.1%) zeros | Zeros |
+| [`3P%`](#pp_var_-4246905509895948780) has 53 (7\.2%) zeros | Zeros |
+| [`2P`](#pp_var_-4682706689429240644) has 33 (4\.5%) zeros | Zeros |
+| [`2PA`](#pp_var_-6322622845979142235) has 13 (1\.8%) zeros | Zeros |
+| [`2P%`](#pp_var_7412547047667818746) has 20 (2\.7%) zeros | Zeros |
+| [`eFG%`](#pp_var_-6550596550094922580) has 11 (1\.5%) zeros | Zeros |
+| [`FT`](#pp_var_5826761821939146888) has 71 (9\.6%) zeros | Zeros |
+| [`FTA`](#pp_var_5900629238680131805) has 62 (8\.4%) zeros | Zeros |
+| [`FT%`](#pp_var_-2389607754451929715) has 9 (1\.2%) zeros | Zeros |
+| [`ORB`](#pp_var_5047467346979309670) has 52 (7\.0%) zeros | Zeros |
+| [`DRB`](#pp_var_536105553434745178) has 20 (2\.7%) zeros | Zeros |
+| [`TRB`](#pp_var_-5838297336820241478) has 15 (2\.0%) zeros | Zeros |
+| [`AST`](#pp_var_1169916079887250478) has 34 (4\.6%) zeros | Zeros |
+| [`STL`](#pp_var_-8714171492087614519) has 51 (6\.9%) zeros | Zeros |
+| [`BLK`](#pp_var_9130039927849350097) has 101 (13\.7%) zeros | Zeros |
+| [`TOV`](#pp_var_2467109624279755055) has 35 (4\.7%) zeros | Zeros |
+| [`PF`](#pp_var_-2361496977164541668) has 22 (3\.0%) zeros | Zeros |
+| [`PTS`](#pp_var_2597962084589159440) has 17 (2\.3%) zeros | Zeros |
 
 Reproduction
 
 
 
-| Analysis started | 2024\-09\-16 04:45:07\.916648 |
+| Analysis started | 2024\-09\-23 02:39:55\.668659 |
 | --- | --- |
-| Analysis finished | 2024\-09\-16 04:45:29\.600635 |
-| Duration | 21\.68 seconds |
+| Analysis finished | 2024\-09\-23 02:40:25\.529034 |
+| Duration | 29\.86 seconds |
 | Software version | [ydata\-profiling v0\.0\.dev0](https://github.com/ydataai/ydata-profiling) |
 | Download configuration | [config.json](data:text/plain;charset=utf-8,%7B%22title%22%3A%20%22NBA%20Statistics%22%2C%20%22dataset%22%3A%20%7B%22description%22%3A%20%22%22%2C%20%22creator%22%3A%20%22%22%2C%20%22author%22%3A%20%22%22%2C%20%22copyright_holder%22%3A%20%22%22%2C%20%22copyright_year%22%3A%20%22%22%2C%20%22url%22%3A%20%22%22%7D%2C%20%22variables%22%3A%20%7B%22descriptions%22%3A%20%7B%7D%7D%2C%20%22infer_dtypes%22%3A%20true%2C%20%22show_variable_description%22%3A%20true%2C%20%22pool_size%22%3A%200%2C%20%22progress_bar%22%3A%20true%2C%20%22vars%22%3A%20%7B%22num%22%3A%20%7B%22quantiles%22%3A%20%5B0.05%2C%200.25%2C%200.5%2C%200.75%2C%200.95%5D%2C%20%22skewness_threshold%22%3A%2020%2C%20%22low_categorical_threshold%22%3A%205%2C%20%22chi_squared_threshold%22%3A%200.999%7D%2C%20%22text%22%3A%20%7B%22length%22%3A%20true%2C%20%22words%22%3A%20true%2C%20%22characters%22%3A%20true%2C%20%22redact%22%3A%20false%7D%2C%20%22cat%22%3A%20%7B%22length%22%3A%20true%2C%20%22characters%22%3A%20true%2C%20%22words%22%3A%20true%2C%20%22cardinality_threshold%22%3A%2050%2C%20%22percentage_cat_threshold%22%3A%200.5%2C%20%22imbalance_threshold%22%3A%200.5%2C%20%22n_obs%22%3A%205%2C%20%22chi_squared_threshold%22%3A%200.999%2C%20%22coerce_str_to_date%22%3A%20false%2C%20%22redact%22%3A%20false%2C%20%22histogram_largest%22%3A%2050%2C%20%22stop_words%22%3A%20%5B%5D%7D%2C%20%22image%22%3A%20%7B%22active%22%3A%20false%2C%20%22exif%22%3A%20true%2C%20%22hash%22%3A%20true%7D%2C%20%22bool%22%3A%20%7B%22n_obs%22%3A%203%2C%20%22imbalance_threshold%22%3A%200.5%2C%20%22mappings%22%3A%20%7B%22t%22%3A%20true%2C%20%22f%22%3A%20false%2C%20%22yes%22%3A%20true%2C%20%22no%22%3A%20false%2C%20%22y%22%3A%20true%2C%20%22n%22%3A%20false%2C%20%22true%22%3A%20true%2C%20%22false%22%3A%20false%7D%7D%2C%20%22path%22%3A%20%7B%22active%22%3A%20false%7D%2C%20%22file%22%3A%20%7B%22active%22%3A%20false%7D%2C%20%22url%22%3A%20%7B%22active%22%3A%20false%7D%2C%20%22timeseries%22%3A%20%7B%22active%22%3A%20false%2C%20%22sortby%22%3A%20null%2C%20%22autocorrelation%22%3A%200.7%2C%20%22lags%22%3A%20%5B1%2C%207%2C%2012%2C%2024%2C%2030%5D%2C%20%22significance%22%3A%200.05%2C%20%22pacf_acf_lag%22%3A%20100%7D%7D%2C%20%22sort%22%3A%20null%2C%20%22missing_diagrams%22%3A%20%7B%22bar%22%3A%20true%2C%20%22matrix%22%3A%20true%2C%20%22heatmap%22%3A%20true%7D%2C%20%22correlation_table%22%3A%20true%2C%20%22correlations%22%3A%20%7B%22auto%22%3A%20%7B%22key%22%3A%20%22auto%22%2C%20%22calculate%22%3A%20true%2C%20%22warn_high_correlations%22%3A%2010%2C%20%22threshold%22%3A%200.5%2C%20%22n_bins%22%3A%2010%7D%2C%20%22spearman%22%3A%20%7B%22key%22%3A%20%22spearman%22%2C%20%22calculate%22%3A%20false%2C%20%22warn_high_correlations%22%3A%2010%2C%20%22threshold%22%3A%200.5%2C%20%22n_bins%22%3A%2010%7D%2C%20%22pearson%22%3A%20%7B%22key%22%3A%20%22pearson%22%2C%20%22calculate%22%3A%20false%2C%20%22warn_high_correlations%22%3A%2010%2C%20%22threshold%22%3A%200.5%2C%20%22n_bins%22%3A%2010%7D%2C%20%22phi_k%22%3A%20%7B%22key%22%3A%20%22phi_k%22%2C%20%22calculate%22%3A%20false%2C%20%22warn_high_correlations%22%3A%2010%2C%20%22threshold%22%3A%200.5%2C%20%22n_bins%22%3A%2010%7D%2C%20%22cramers%22%3A%20%7B%22key%22%3A%20%22cramers%22%2C%20%22calculate%22%3A%20false%2C%20%22warn_high_correlations%22%3A%2010%2C%20%22threshold%22%3A%200.5%2C%20%22n_bins%22%3A%2010%7D%2C%20%22kendall%22%3A%20%7B%22key%22%3A%20%22kendall%22%2C%20%22calculate%22%3A%20false%2C%20%22warn_high_correlations%22%3A%2010%2C%20%22threshold%22%3A%200.5%2C%20%22n_bins%22%3A%2010%7D%7D%2C%20%22interactions%22%3A%20%7B%22continuous%22%3A%20true%2C%20%22targets%22%3A%20%5B%5D%7D%2C%20%22categorical_maximum_correlation_distinct%22%3A%20100%2C%20%22memory_deep%22%3A%20false%2C%20%22plot%22%3A%20%7B%22missing%22%3A%20%7B%22force_labels%22%3A%20true%2C%20%22cmap%22%3A%20%22RdBu%22%7D%2C%20%22image_format%22%3A%20%22svg%22%2C%20%22correlation%22%3A%20%7B%22cmap%22%3A%20%22RdBu%22%2C%20%22bad%22%3A%20%22%23000000%22%7D%2C%20%22dpi%22%3A%20800%2C%20%22histogram%22%3A%20%7B%22bins%22%3A%2050%2C%20%22max_bins%22%3A%20250%2C%20%22x_axis_labels%22%3A%20true%2C%20%22density%22%3A%20false%7D%2C%20%22scatter_threshold%22%3A%201000%2C%20%22cat_freq%22%3A%20%7B%22show%22%3A%20true%2C%20%22type%22%3A%20%22bar%22%2C%20%22max_unique%22%3A%2010%2C%20%22colors%22%3A%20null%7D%2C%20%22font_path%22%3A%20null%7D%2C%20%22duplicates%22%3A%20%7B%22head%22%3A%2010%2C%20%22key%22%3A%20%22%23%20duplicates%22%7D%2C%20%22samples%22%3A%20%7B%22head%22%3A%2010%2C%20%22tail%22%3A%2010%2C%20%22random%22%3A%200%7D%2C%20%22reject_variables%22%3A%20true%2C%20%22n_obs_unique%22%3A%2010%2C%20%22n_freq_table_max%22%3A%2010%2C%20%22n_extreme_obs%22%3A%2010%2C%20%22report%22%3A%20%7B%22precision%22%3A%208%7D%2C%20%22html%22%3A%20%7B%22style%22%3A%20%7B%22primary_colors%22%3A%20%5B%22%23377eb8%22%2C%20%22%23e41a1c%22%2C%20%22%234daf4a%22%5D%2C%20%22logo%22%3A%20%22%22%2C%20%22theme%22%3A%20null%7D%2C%20%22navbar_show%22%3A%20true%2C%20%22minify_html%22%3A%20true%2C%20%22use_local_assets%22%3A%20true%2C%20%22inline%22%3A%20true%2C%20%22assets_prefix%22%3A%20null%2C%20%22assets_path%22%3A%20null%2C%20%22full_width%22%3A%20false%7D%2C%20%22notebook%22%3A%20%7B%22iframe%22%3A%20%7B%22height%22%3A%20%22800px%22%2C%20%22width%22%3A%20%22100%25%22%2C%20%22attribute%22%3A%20%22srcdoc%22%7D%7D%7D) |
 
 Variables
 =========
 
-Select ColumnsRkPlayerAgeTeamPosGGSMPFGFGAFG%3P3PA3P%2P2PA2P%eFG%FTFTAFT%ORBDRBTRBASTSTLBLKTOVPFPTSAwards[Rk](#pp_var_7822064270119804032)  
+Select ColumnsRkPlayerAgeTeamPosGGSMPFGFGAFG%3P3PA3P%2P2PA2P%eFG%FTFTAFT%ORBDRBTRBASTSTLBLKTOVPFPTSAwards[Rk](#pp_var_-2147765863761696128)  
 Text
 
 
@@ -122,9 +122,9 @@ Text
 | Missing (%) | 0\.4% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.749137image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Overview](#7822064270119804032bottom-7822064270119804032overview)
-* [Words](#7822064270119804032bottom-7822064270119804032word)
-* [Characters](#7822064270119804032bottom-7822064270119804032characters)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.822913image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Overview](#-2147765863761696128bottom--2147765863761696128overview)
+* [Words](#-2147765863761696128bottom--2147765863761696128word)
+* [Characters](#-2147765863761696128bottom--2147765863761696128characters)
 
 Length
 
@@ -182,10 +182,10 @@ Sample
 | 358 | 3 | 0\.4% |
 | Other values (570\) | 707 | 95\.0% |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.963776image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/* [Characters](#7822064270119804032unicode-7822064270119804032characters)
-* [Categories](#7822064270119804032unicode-7822064270119804032categories)
-* [Scripts](#7822064270119804032unicode-7822064270119804032scripts)
-* [Blocks](#7822064270119804032unicode-7822064270119804032blocks)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:26\.080222image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/* [Characters](#-2147765863761696128unicode--2147765863761696128characters)
+* [Categories](#-2147765863761696128unicode--2147765863761696128categories)
+* [Scripts](#-2147765863761696128unicode--2147765863761696128scripts)
+* [Blocks](#-2147765863761696128unicode--2147765863761696128blocks)
 
 #### Most occurring characters
 
@@ -289,7 +289,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.9
 | 0 | 133 | 5\.5% |
 | Other values (45\) | 346 | 14\.2% |
 
-[Player](#pp_var_2476938659153262846)  
+[Player](#pp_var_-3728644154826358947)  
 Text
 
 
@@ -301,9 +301,9 @@ Text
 | Missing (%) | 0\.4% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.115306image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Overview](#2476938659153262846bottom-2476938659153262846overview)
-* [Words](#2476938659153262846bottom-2476938659153262846word)
-* [Characters](#2476938659153262846bottom-2476938659153262846characters)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:26\.341385image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Overview](#-3728644154826358947bottom--3728644154826358947overview)
+* [Words](#-3728644154826358947bottom--3728644154826358947word)
+* [Characters](#-3728644154826358947bottom--3728644154826358947characters)
 
 Length
 
@@ -361,10 +361,10 @@ Sample
 | jones | 7 | 0\.5% |
 | Other values (856\) | 1396 | 91\.7% |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.314285image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/* [Characters](#2476938659153262846unicode-2476938659153262846characters)
-* [Categories](#2476938659153262846unicode-2476938659153262846categories)
-* [Scripts](#2476938659153262846unicode-2476938659153262846scripts)
-* [Blocks](#2476938659153262846unicode-2476938659153262846blocks)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:26\.855477image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/* [Characters](#-3728644154826358947unicode--3728644154826358947characters)
+* [Categories](#-3728644154826358947unicode--3728644154826358947categories)
+* [Scripts](#-3728644154826358947unicode--3728644154826358947scripts)
+* [Blocks](#-3728644154826358947unicode--3728644154826358947blocks)
 
 #### Most occurring characters
 
@@ -468,7 +468,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.3
 | t | 303 | 3\.1% |
 | Other values (57\) | 3637 | 37\.3% |
 
-[Age](#pp_var_-8803790789339340779)  
+[Age](#pp_var_-6762282796985299415)  
 Real number (ℝ)
 
 
@@ -493,10 +493,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.365621image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-8803790789339340779bottom--8803790789339340779statistics)
-* [Histogram](#-8803790789339340779bottom--8803790789339340779histogram)
-* [Common values](#-8803790789339340779bottom--8803790789339340779common_values)
-* [Extreme values](#-8803790789339340779bottom--8803790789339340779extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:26\.954444image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-6762282796985299415bottom--6762282796985299415statistics)
+* [Histogram](#-6762282796985299415bottom--6762282796985299415histogram)
+* [Common values](#-6762282796985299415bottom--6762282796985299415common_values)
+* [Extreme values](#-6762282796985299415bottom--6762282796985299415extreme_values)
 
 Quantile statistics
 
@@ -528,7 +528,7 @@ Descriptive statistics
 | Variance | 19\.11215 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.408233image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=21\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.031210image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=21\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -544,8 +544,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.4
 | 29 | 34 | 4\.6% |
 | Other values (11\) | 176 | 23\.8% |
 
-* [Minimum 10 values](#-8803790789339340779extreme_values--8803790789339340779firstn)
-* [Maximum 10 values](#-8803790789339340779extreme_values--8803790789339340779lastn)
+* [Minimum 10 values](#-6762282796985299415extreme_values--6762282796985299415firstn)
+* [Maximum 10 values](#-6762282796985299415extreme_values--6762282796985299415lastn)
 
 
 
@@ -577,7 +577,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.4
 | 31 | 35 | 4\.7% |
 | 30 | 31 | 4\.2% |
 
-[Team](#pp_var_-5774911388899641854)  
+[Team](#pp_var_-2502563227447353010)  
 Categorical
 
 
@@ -599,10 +599,10 @@ Categorical
 | PHI | 28 |
 | Other values (27\) | 542 |
 
- More details * [Overview](#-5774911388899641854bottom--5774911388899641854overview)
-* [Categories](#-5774911388899641854bottom--5774911388899641854string)
-* [Words](#-5774911388899641854bottom--5774911388899641854word)
-* [Characters](#-5774911388899641854bottom--5774911388899641854characters)
+ More details * [Overview](#-2502563227447353010bottom--2502563227447353010overview)
+* [Categories](#-2502563227447353010bottom--2502563227447353010string)
+* [Words](#-2502563227447353010bottom--2502563227447353010word)
+* [Characters](#-2502563227447353010bottom--2502563227447353010characters)
 
 Length
 
@@ -664,7 +664,7 @@ Sample
 
 #### Length
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.448509image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ Histogram of lengths of the category 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.113935image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ Histogram of lengths of the category 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -680,10 +680,10 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.4
 | ind | 22 | 3\.0% |
 | Other values (22\) | 422 | 57\.4% |
 
-* [Characters](#-5774911388899641854unicode--5774911388899641854characters)
-* [Categories](#-5774911388899641854unicode--5774911388899641854categories)
-* [Scripts](#-5774911388899641854unicode--5774911388899641854scripts)
-* [Blocks](#-5774911388899641854unicode--5774911388899641854blocks)
+* [Characters](#-2502563227447353010unicode--2502563227447353010characters)
+* [Categories](#-2502563227447353010unicode--2502563227447353010categories)
+* [Scripts](#-2502563227447353010unicode--2502563227447353010scripts)
+* [Blocks](#-2502563227447353010unicode--2502563227447353010blocks)
 
 #### Most occurring characters
 
@@ -787,7 +787,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.4
 | N | 104 | 4\.7% |
 | Other values (12\) | 685 | 31\.1% |
 
-[Pos](#pp_var_-1884133172650853775)  
+[Pos](#pp_var_4545844447961146183)  
 Categorical
 
 
@@ -808,10 +808,10 @@ Categorical
 | PG | 148 |
 | C | 120 |
 
- More details * [Overview](#-1884133172650853775bottom--1884133172650853775overview)
-* [Categories](#-1884133172650853775bottom--1884133172650853775string)
-* [Words](#-1884133172650853775bottom--1884133172650853775word)
-* [Characters](#-1884133172650853775bottom--1884133172650853775characters)
+ More details * [Overview](#4545844447961146183bottom-4545844447961146183overview)
+* [Categories](#4545844447961146183bottom-4545844447961146183string)
+* [Words](#4545844447961146183bottom-4545844447961146183word)
+* [Characters](#4545844447961146183bottom-4545844447961146183characters)
 
 Length
 
@@ -868,9 +868,9 @@ Sample
 
 #### Length
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.487478image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ Histogram of lengths of the category #### Common Values (Plot)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.192368image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ Histogram of lengths of the category #### Common Values (Plot)
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.529318image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.276175image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -880,10 +880,10 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.5
 | pg | 148 | 20\.1% |
 | c | 120 | 16\.3% |
 
-* [Characters](#-1884133172650853775unicode--1884133172650853775characters)
-* [Categories](#-1884133172650853775unicode--1884133172650853775categories)
-* [Scripts](#-1884133172650853775unicode--1884133172650853775scripts)
-* [Blocks](#-1884133172650853775unicode--1884133172650853775blocks)
+* [Characters](#4545844447961146183unicode-4545844447961146183characters)
+* [Categories](#4545844447961146183unicode-4545844447961146183categories)
+* [Scripts](#4545844447961146183unicode-4545844447961146183scripts)
+* [Blocks](#4545844447961146183unicode-4545844447961146183blocks)
 
 #### Most occurring characters
 
@@ -963,7 +963,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.5
 | P | 300 | 22\.2% |
 | C | 120 | 8\.9% |
 
-[G](#pp_var_-5901123382861386033)  
+[G](#pp_var_8027553765698121497)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  
@@ -990,10 +990,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.573992image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-5901123382861386033bottom--5901123382861386033statistics)
-* [Histogram](#-5901123382861386033bottom--5901123382861386033histogram)
-* [Common values](#-5901123382861386033bottom--5901123382861386033common_values)
-* [Extreme values](#-5901123382861386033bottom--5901123382861386033extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.359593image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#8027553765698121497bottom-8027553765698121497statistics)
+* [Histogram](#8027553765698121497bottom-8027553765698121497histogram)
+* [Common values](#8027553765698121497bottom-8027553765698121497common_values)
+* [Extreme values](#8027553765698121497bottom-8027553765698121497extreme_values)
 
 Quantile statistics
 
@@ -1025,7 +1025,7 @@ Descriptive statistics
 | Variance | 654\.40254 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.666315image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.422394image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1041,8 +1041,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.6
 | 23 | 13 | 1\.8% |
 | Other values (73\) | 579 | 78\.3% |
 
-* [Minimum 10 values](#-5901123382861386033extreme_values--5901123382861386033firstn)
-* [Maximum 10 values](#-5901123382861386033extreme_values--5901123382861386033lastn)
+* [Minimum 10 values](#8027553765698121497extreme_values-8027553765698121497firstn)
+* [Maximum 10 values](#8027553765698121497extreme_values-8027553765698121497lastn)
 
 
 
@@ -1074,7 +1074,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.6
 | 75 | 11 | 1\.5% |
 | 74 | 12 | 1\.6% |
 
-[GS](#pp_var_8652085826295855263)  
+[GS](#pp_var_-8364627295145688636)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -1101,10 +1101,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.709973image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#8652085826295855263bottom-8652085826295855263statistics)
-* [Histogram](#8652085826295855263bottom-8652085826295855263histogram)
-* [Common values](#8652085826295855263bottom-8652085826295855263common_values)
-* [Extreme values](#8652085826295855263bottom-8652085826295855263extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.482190image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-8364627295145688636bottom--8364627295145688636statistics)
+* [Histogram](#-8364627295145688636bottom--8364627295145688636histogram)
+* [Common values](#-8364627295145688636bottom--8364627295145688636common_values)
+* [Extreme values](#-8364627295145688636bottom--8364627295145688636extreme_values)
 
 Quantile statistics
 
@@ -1136,7 +1136,7 @@ Descriptive statistics
 | Variance | 626\.20596 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.757040image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.533339image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1152,8 +1152,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.7
 | 7 | 12 | 1\.6% |
 | Other values (72\) | 306 | 41\.4% |
 
-* [Minimum 10 values](#8652085826295855263extreme_values-8652085826295855263firstn)
-* [Maximum 10 values](#8652085826295855263extreme_values-8652085826295855263lastn)
+* [Minimum 10 values](#-8364627295145688636extreme_values--8364627295145688636firstn)
+* [Maximum 10 values](#-8364627295145688636extreme_values--8364627295145688636lastn)
 
 
 
@@ -1185,7 +1185,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.7
 | 74 | 6 | 0\.8% |
 | 73 | 7 | 0\.9% |
 
-[MP](#pp_var_7396509399615182588)  
+[MP](#pp_var_7811617083263735027)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  
@@ -1212,10 +1212,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.799620image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#7396509399615182588bottom-7396509399615182588statistics)
-* [Histogram](#7396509399615182588bottom-7396509399615182588histogram)
-* [Common values](#7396509399615182588bottom-7396509399615182588common_values)
-* [Extreme values](#7396509399615182588bottom-7396509399615182588extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.577782image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#7811617083263735027bottom-7811617083263735027statistics)
+* [Histogram](#7811617083263735027bottom-7811617083263735027histogram)
+* [Common values](#7811617083263735027bottom-7811617083263735027common_values)
+* [Extreme values](#7811617083263735027bottom-7811617083263735027extreme_values)
 
 Quantile statistics
 
@@ -1247,7 +1247,7 @@ Descriptive statistics
 | Variance | 94\.780432 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.847313image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.627211image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1263,8 +1263,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.8
 | 12\.2 | 5 | 0\.7% |
 | Other values (299\) | 668 | 90\.4% |
 
-* [Minimum 10 values](#7396509399615182588extreme_values-7396509399615182588firstn)
-* [Maximum 10 values](#7396509399615182588extreme_values-7396509399615182588lastn)
+* [Minimum 10 values](#7811617083263735027extreme_values-7811617083263735027firstn)
+* [Maximum 10 values](#7811617083263735027extreme_values-7811617083263735027lastn)
 
 
 
@@ -1296,7 +1296,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.8
 | 35\.7 | 3 | 0\.4% |
 | 35\.5 | 2 | 0\.3% |
 
-[FG](#pp_var_8806392116977775315)  
+[FG](#pp_var_-7889356775689074584)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -1323,10 +1323,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.890709image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#8806392116977775315bottom-8806392116977775315statistics)
-* [Histogram](#8806392116977775315bottom-8806392116977775315histogram)
-* [Common values](#8806392116977775315bottom-8806392116977775315common_values)
-* [Extreme values](#8806392116977775315bottom-8806392116977775315extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.680250image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-7889356775689074584bottom--7889356775689074584statistics)
+* [Histogram](#-7889356775689074584bottom--7889356775689074584histogram)
+* [Common values](#-7889356775689074584bottom--7889356775689074584common_values)
+* [Extreme values](#-7889356775689074584bottom--7889356775689074584extreme_values)
 
 Quantile statistics
 
@@ -1358,7 +1358,7 @@ Descriptive statistics
 | Variance | 5\.5554438 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.940861image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.748058image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1374,8 +1374,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.9
 | 0 | 19 | 2\.6% |
 | Other values (87\) | 525 | 71\.0% |
 
-* [Minimum 10 values](#8806392116977775315extreme_values-8806392116977775315firstn)
-* [Maximum 10 values](#8806392116977775315extreme_values-8806392116977775315lastn)
+* [Minimum 10 values](#-7889356775689074584extreme_values--7889356775689074584firstn)
+* [Maximum 10 values](#-7889356775689074584extreme_values--7889356775689074584lastn)
 
 
 
@@ -1407,7 +1407,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.9
 | 9\.1 | 4 | 0\.5% |
 | 9 | 2 | 0\.3% |
 
-[FGA](#pp_var_1319990029546878149)  
+[FGA](#pp_var_-8281516481320456138)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -1434,10 +1434,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:30\.984708image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#1319990029546878149bottom-1319990029546878149statistics)
-* [Histogram](#1319990029546878149bottom-1319990029546878149histogram)
-* [Common values](#1319990029546878149bottom-1319990029546878149common_values)
-* [Extreme values](#1319990029546878149bottom-1319990029546878149extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.814015image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-8281516481320456138bottom--8281516481320456138statistics)
+* [Histogram](#-8281516481320456138bottom--8281516481320456138histogram)
+* [Common values](#-8281516481320456138bottom--8281516481320456138common_values)
+* [Extreme values](#-8281516481320456138bottom--8281516481320456138extreme_values)
 
 Quantile statistics
 
@@ -1469,7 +1469,7 @@ Descriptive statistics
 | Variance | 22\.88076 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.029547image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.896933image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1485,8 +1485,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.0
 | 4 | 11 | 1\.5% |
 | Other values (160\) | 604 | 81\.7% |
 
-* [Minimum 10 values](#1319990029546878149extreme_values-1319990029546878149firstn)
-* [Maximum 10 values](#1319990029546878149extreme_values-1319990029546878149lastn)
+* [Minimum 10 values](#-8281516481320456138extreme_values--8281516481320456138firstn)
+* [Maximum 10 values](#-8281516481320456138extreme_values--8281516481320456138lastn)
 
 
 
@@ -1518,7 +1518,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.0
 | 19\.3 | 1 | 0\.1% |
 | 19\.2 | 2 | 0\.3% |
 
-[FG%](#pp_var_4050168102168301340)  
+[FG%](#pp_var_4668266971410069470)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `MISSING`  `ZEROS`  
@@ -1545,10 +1545,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.072829image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#4050168102168301340bottom-4050168102168301340statistics)
-* [Histogram](#4050168102168301340bottom-4050168102168301340histogram)
-* [Common values](#4050168102168301340bottom-4050168102168301340common_values)
-* [Extreme values](#4050168102168301340bottom-4050168102168301340extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.944205image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#4668266971410069470bottom-4668266971410069470statistics)
+* [Histogram](#4668266971410069470bottom-4668266971410069470histogram)
+* [Common values](#4668266971410069470bottom-4668266971410069470common_values)
+* [Extreme values](#4668266971410069470bottom-4668266971410069470extreme_values)
 
 Quantile statistics
 
@@ -1580,7 +1580,7 @@ Descriptive statistics
 | Variance | 0\.012238816 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.122550image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:27\.995581image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1597,8 +1597,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.1
 | Other values (263\) | 626 | 84\.7% |
 | (Missing) | 11 | 1\.5% |
 
-* [Minimum 10 values](#4050168102168301340extreme_values-4050168102168301340firstn)
-* [Maximum 10 values](#4050168102168301340extreme_values-4050168102168301340lastn)
+* [Minimum 10 values](#4668266971410069470extreme_values-4668266971410069470firstn)
+* [Maximum 10 values](#4668266971410069470extreme_values-4668266971410069470lastn)
 
 
 
@@ -1630,7 +1630,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.1
 | 0\.696 | 1 | 0\.1% |
 | 0\.691 | 2 | 0\.3% |
 
-[3P](#pp_var_1843333132339033981)  
+[3P](#pp_var_481448932031257517)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -1657,10 +1657,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.165620image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#1843333132339033981bottom-1843333132339033981statistics)
-* [Histogram](#1843333132339033981bottom-1843333132339033981histogram)
-* [Common values](#1843333132339033981bottom-1843333132339033981common_values)
-* [Extreme values](#1843333132339033981bottom-1843333132339033981extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.040959image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#481448932031257517bottom-481448932031257517statistics)
+* [Histogram](#481448932031257517bottom-481448932031257517histogram)
+* [Common values](#481448932031257517bottom-481448932031257517common_values)
+* [Extreme values](#481448932031257517bottom-481448932031257517extreme_values)
 
 Quantile statistics
 
@@ -1692,7 +1692,7 @@ Descriptive statistics
 | Variance | 0\.72074785 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.209931image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=39\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.088021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=39\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1708,8 +1708,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.2
 | 1 | 31 | 4\.2% |
 | Other values (29\) | 281 | 38\.0% |
 
-* [Minimum 10 values](#1843333132339033981extreme_values-1843333132339033981firstn)
-* [Maximum 10 values](#1843333132339033981extreme_values-1843333132339033981lastn)
+* [Minimum 10 values](#481448932031257517extreme_values-481448932031257517firstn)
+* [Maximum 10 values](#481448932031257517extreme_values-481448932031257517lastn)
 
 
 
@@ -1741,7 +1741,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.2
 | 3 | 6 | 0\.8% |
 | 2\.9 | 1 | 0\.1% |
 
-[3PA](#pp_var_-7471117451605213244)  
+[3PA](#pp_var_5729797768229450615)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -1768,10 +1768,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.252744image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-7471117451605213244bottom--7471117451605213244statistics)
-* [Histogram](#-7471117451605213244bottom--7471117451605213244histogram)
-* [Common values](#-7471117451605213244bottom--7471117451605213244common_values)
-* [Extreme values](#-7471117451605213244bottom--7471117451605213244extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.277377image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#5729797768229450615bottom-5729797768229450615statistics)
+* [Histogram](#5729797768229450615bottom-5729797768229450615histogram)
+* [Common values](#5729797768229450615bottom-5729797768229450615common_values)
+* [Extreme values](#5729797768229450615bottom-5729797768229450615extreme_values)
 
 Quantile statistics
 
@@ -1803,7 +1803,7 @@ Descriptive statistics
 | Variance | 4\.6942828 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.299832image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.370786image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1819,8 +1819,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.2
 | 2\.5 | 17 | 2\.3% |
 | Other values (80\) | 501 | 67\.8% |
 
-* [Minimum 10 values](#-7471117451605213244extreme_values--7471117451605213244firstn)
-* [Maximum 10 values](#-7471117451605213244extreme_values--7471117451605213244lastn)
+* [Minimum 10 values](#5729797768229450615extreme_values-5729797768229450615firstn)
+* [Maximum 10 values](#5729797768229450615extreme_values-5729797768229450615lastn)
 
 
 
@@ -1852,7 +1852,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.2
 | 8\.2 | 1 | 0\.1% |
 | 8\.1 | 2 | 0\.3% |
 
-[3P%](#pp_var_2063935364415313493)  
+[3P%](#pp_var_-4246905509895948780)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `MISSING`  `ZEROS`  
@@ -1879,10 +1879,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.344417image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#2063935364415313493bottom-2063935364415313493statistics)
-* [Histogram](#2063935364415313493bottom-2063935364415313493histogram)
-* [Common values](#2063935364415313493bottom-2063935364415313493common_values)
-* [Extreme values](#2063935364415313493bottom-2063935364415313493extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.467286image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-4246905509895948780bottom--4246905509895948780statistics)
+* [Histogram](#-4246905509895948780bottom--4246905509895948780histogram)
+* [Common values](#-4246905509895948780bottom--4246905509895948780common_values)
+* [Extreme values](#-4246905509895948780bottom--4246905509895948780extreme_values)
 
 Quantile statistics
 
@@ -1914,7 +1914,7 @@ Descriptive statistics
 | Variance | 0\.018804707 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.391531image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.551249image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -1931,8 +1931,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.3
 | Other values (207\) | 530 | 71\.7% |
 | (Missing) | 49 | 6\.6% |
 
-* [Minimum 10 values](#2063935364415313493extreme_values-2063935364415313493firstn)
-* [Maximum 10 values](#2063935364415313493extreme_values-2063935364415313493lastn)
+* [Minimum 10 values](#-4246905509895948780extreme_values--4246905509895948780firstn)
+* [Maximum 10 values](#-4246905509895948780extreme_values--4246905509895948780lastn)
 
 
 
@@ -1964,7 +1964,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.3
 | 0\.492 | 1 | 0\.1% |
 | 0\.491 | 1 | 0\.1% |
 
-[2P](#pp_var_-4751834513531754145)  
+[2P](#pp_var_-4682706689429240644)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -1991,10 +1991,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.434941image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-4751834513531754145bottom--4751834513531754145statistics)
-* [Histogram](#-4751834513531754145bottom--4751834513531754145histogram)
-* [Common values](#-4751834513531754145bottom--4751834513531754145common_values)
-* [Extreme values](#-4751834513531754145bottom--4751834513531754145extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.637366image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-4682706689429240644bottom--4682706689429240644statistics)
+* [Histogram](#-4682706689429240644bottom--4682706689429240644histogram)
+* [Common values](#-4682706689429240644bottom--4682706689429240644common_values)
+* [Extreme values](#-4682706689429240644bottom--4682706689429240644extreme_values)
 
 Quantile statistics
 
@@ -2026,7 +2026,7 @@ Descriptive statistics
 | Variance | 3\.5085811 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.530709image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.732565image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2042,8 +2042,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.5
 | 1\.3 | 23 | 3\.1% |
 | Other values (68\) | 456 | 61\.7% |
 
-* [Minimum 10 values](#-4751834513531754145extreme_values--4751834513531754145firstn)
-* [Maximum 10 values](#-4751834513531754145extreme_values--4751834513531754145lastn)
+* [Minimum 10 values](#-4682706689429240644extreme_values--4682706689429240644firstn)
+* [Maximum 10 values](#-4682706689429240644extreme_values--4682706689429240644lastn)
 
 
 
@@ -2075,7 +2075,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.5
 | 7\.5 | 3 | 0\.4% |
 | 7\.4 | 1 | 0\.1% |
 
-[2PA](#pp_var_-3261584677097445518)  
+[2PA](#pp_var_-6322622845979142235)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -2102,10 +2102,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.574143image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-3261584677097445518bottom--3261584677097445518statistics)
-* [Histogram](#-3261584677097445518bottom--3261584677097445518histogram)
-* [Common values](#-3261584677097445518bottom--3261584677097445518common_values)
-* [Extreme values](#-3261584677097445518bottom--3261584677097445518extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.798531image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-6322622845979142235bottom--6322622845979142235statistics)
+* [Histogram](#-6322622845979142235bottom--6322622845979142235histogram)
+* [Common values](#-6322622845979142235bottom--6322622845979142235common_values)
+* [Extreme values](#-6322622845979142235bottom--6322622845979142235extreme_values)
 
 Quantile statistics
 
@@ -2137,7 +2137,7 @@ Descriptive statistics
 | Variance | 11\.161022 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.623104image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.877810image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2153,8 +2153,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.6
 | 1\.6 | 15 | 2\.0% |
 | Other values (116\) | 558 | 75\.5% |
 
-* [Minimum 10 values](#-3261584677097445518extreme_values--3261584677097445518firstn)
-* [Maximum 10 values](#-3261584677097445518extreme_values--3261584677097445518lastn)
+* [Minimum 10 values](#-6322622845979142235extreme_values--6322622845979142235firstn)
+* [Maximum 10 values](#-6322622845979142235extreme_values--6322622845979142235lastn)
 
 
 
@@ -2186,7 +2186,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.6
 | 13\.8 | 1 | 0\.1% |
 | 13\.7 | 2 | 0\.3% |
 
-[2P%](#pp_var_-3861510917937348449)  
+[2P%](#pp_var_7412547047667818746)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `MISSING`  `ZEROS`  
@@ -2213,10 +2213,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.670428image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-3861510917937348449bottom--3861510917937348449statistics)
-* [Histogram](#-3861510917937348449bottom--3861510917937348449histogram)
-* [Common values](#-3861510917937348449bottom--3861510917937348449common_values)
-* [Extreme values](#-3861510917937348449bottom--3861510917937348449extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:28\.963494image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#7412547047667818746bottom-7412547047667818746statistics)
+* [Histogram](#7412547047667818746bottom-7412547047667818746histogram)
+* [Common values](#7412547047667818746bottom-7412547047667818746common_values)
+* [Extreme values](#7412547047667818746bottom-7412547047667818746extreme_values)
 
 Quantile statistics
 
@@ -2248,7 +2248,7 @@ Descriptive statistics
 | Variance | 0\.018692866 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.717154image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.062255image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2265,8 +2265,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.7
 | Other values (256\) | 598 | 80\.9% |
 | (Missing) | 16 | 2\.2% |
 
-* [Minimum 10 values](#-3861510917937348449extreme_values--3861510917937348449firstn)
-* [Maximum 10 values](#-3861510917937348449extreme_values--3861510917937348449lastn)
+* [Minimum 10 values](#7412547047667818746extreme_values-7412547047667818746firstn)
+* [Maximum 10 values](#7412547047667818746extreme_values-7412547047667818746lastn)
 
 
 
@@ -2298,7 +2298,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.7
 | 0\.75 | 2 | 0\.3% |
 | 0\.744 | 1 | 0\.1% |
 
-[eFG%](#pp_var_9022928779212863167)  
+[eFG%](#pp_var_-6550596550094922580)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `MISSING`  `ZEROS`  
@@ -2325,10 +2325,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.760557image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#9022928779212863167bottom-9022928779212863167statistics)
-* [Histogram](#9022928779212863167bottom-9022928779212863167histogram)
-* [Common values](#9022928779212863167bottom-9022928779212863167common_values)
-* [Extreme values](#9022928779212863167bottom-9022928779212863167extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.148617image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-6550596550094922580bottom--6550596550094922580statistics)
+* [Histogram](#-6550596550094922580bottom--6550596550094922580histogram)
+* [Common values](#-6550596550094922580bottom--6550596550094922580common_values)
+* [Extreme values](#-6550596550094922580bottom--6550596550094922580extreme_values)
 
 Quantile statistics
 
@@ -2360,7 +2360,7 @@ Descriptive statistics
 | Variance | 0\.013147925 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.806004image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.234475image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2377,8 +2377,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.8
 | Other values (268\) | 630 | 85\.3% |
 | (Missing) | 11 | 1\.5% |
 
-* [Minimum 10 values](#9022928779212863167extreme_values-9022928779212863167firstn)
-* [Maximum 10 values](#9022928779212863167extreme_values-9022928779212863167lastn)
+* [Minimum 10 values](#-6550596550094922580extreme_values--6550596550094922580firstn)
+* [Maximum 10 values](#-6550596550094922580extreme_values--6550596550094922580lastn)
 
 
 
@@ -2410,7 +2410,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.8
 | 0\.725 | 2 | 0\.3% |
 | 0\.72 | 1 | 0\.1% |
 
-[FT](#pp_var_2865802384739758464)  
+[FT](#pp_var_5826761821939146888)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -2437,10 +2437,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.850131image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#2865802384739758464bottom-2865802384739758464statistics)
-* [Histogram](#2865802384739758464bottom-2865802384739758464histogram)
-* [Common values](#2865802384739758464bottom-2865802384739758464common_values)
-* [Extreme values](#2865802384739758464bottom-2865802384739758464extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.297624image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#5826761821939146888bottom-5826761821939146888statistics)
+* [Histogram](#5826761821939146888bottom-5826761821939146888histogram)
+* [Common values](#5826761821939146888bottom-5826761821939146888common_values)
+* [Extreme values](#5826761821939146888bottom-5826761821939146888extreme_values)
 
 Quantile statistics
 
@@ -2472,7 +2472,7 @@ Descriptive statistics
 | Variance | 1\.6889604 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.897780image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.348647image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2488,8 +2488,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.8
 | 0\.9 | 30 | 4\.1% |
 | Other values (50\) | 299 | 40\.5% |
 
-* [Minimum 10 values](#2865802384739758464extreme_values-2865802384739758464firstn)
-* [Maximum 10 values](#2865802384739758464extreme_values-2865802384739758464lastn)
+* [Minimum 10 values](#5826761821939146888extreme_values-5826761821939146888firstn)
+* [Maximum 10 values](#5826761821939146888extreme_values-5826761821939146888lastn)
 
 
 
@@ -2521,7 +2521,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.8
 | 5\.8 | 1 | 0\.1% |
 | 5\.6 | 1 | 0\.1% |
 
-[FTA](#pp_var_-7031540272212084250)  
+[FTA](#pp_var_5900629238680131805)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -2548,10 +2548,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.941701image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-7031540272212084250bottom--7031540272212084250statistics)
-* [Histogram](#-7031540272212084250bottom--7031540272212084250histogram)
-* [Common values](#-7031540272212084250bottom--7031540272212084250common_values)
-* [Extreme values](#-7031540272212084250bottom--7031540272212084250extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.394105image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#5900629238680131805bottom-5900629238680131805statistics)
+* [Histogram](#5900629238680131805bottom-5900629238680131805histogram)
+* [Common values](#5900629238680131805bottom-5900629238680131805common_values)
+* [Extreme values](#5900629238680131805bottom-5900629238680131805extreme_values)
 
 Quantile statistics
 
@@ -2583,7 +2583,7 @@ Descriptive statistics
 | Variance | 2\.5146282 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.989742image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.444638image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2599,8 +2599,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.9
 | 1\.4 | 27 | 3\.7% |
 | Other values (58\) | 369 | 49\.9% |
 
-* [Minimum 10 values](#-7031540272212084250extreme_values--7031540272212084250firstn)
-* [Maximum 10 values](#-7031540272212084250extreme_values--7031540272212084250lastn)
+* [Minimum 10 values](#5900629238680131805extreme_values-5900629238680131805firstn)
+* [Maximum 10 values](#5900629238680131805extreme_values-5900629238680131805lastn)
 
 
 
@@ -2632,7 +2632,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:31\.9
 | 6\.7 | 2 | 0\.3% |
 | 6\.6 | 1 | 0\.1% |
 
-[FT%](#pp_var_-5790657214830010527)  
+[FT%](#pp_var_-2389607754451929715)  
 Real number (ℝ)
 
 `MISSING`  `ZEROS`  
@@ -2659,10 +2659,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.040215image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-5790657214830010527bottom--5790657214830010527statistics)
-* [Histogram](#-5790657214830010527bottom--5790657214830010527histogram)
-* [Common values](#-5790657214830010527bottom--5790657214830010527common_values)
-* [Extreme values](#-5790657214830010527bottom--5790657214830010527extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.612739image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-2389607754451929715bottom--2389607754451929715statistics)
+* [Histogram](#-2389607754451929715bottom--2389607754451929715histogram)
+* [Common values](#-2389607754451929715bottom--2389607754451929715common_values)
+* [Extreme values](#-2389607754451929715bottom--2389607754451929715extreme_values)
 
 Quantile statistics
 
@@ -2694,7 +2694,7 @@ Descriptive statistics
 | Variance | 0\.025573613 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.093417image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.717506image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2711,8 +2711,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.0
 | Other values (262\) | 505 | 68\.3% |
 | (Missing) | 62 | 8\.4% |
 
-* [Minimum 10 values](#-5790657214830010527extreme_values--5790657214830010527firstn)
-* [Maximum 10 values](#-5790657214830010527extreme_values--5790657214830010527lastn)
+* [Minimum 10 values](#-2389607754451929715extreme_values--2389607754451929715firstn)
+* [Maximum 10 values](#-2389607754451929715extreme_values--2389607754451929715lastn)
 
 
 
@@ -2744,7 +2744,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.0
 | 0\.921 | 2 | 0\.3% |
 | 0\.92 | 1 | 0\.1% |
 
-[ORB](#pp_var_-8760638760003401376)  
+[ORB](#pp_var_5047467346979309670)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -2771,10 +2771,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.139929image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-8760638760003401376bottom--8760638760003401376statistics)
-* [Histogram](#-8760638760003401376bottom--8760638760003401376histogram)
-* [Common values](#-8760638760003401376bottom--8760638760003401376common_values)
-* [Extreme values](#-8760638760003401376bottom--8760638760003401376extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.791021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#5047467346979309670bottom-5047467346979309670statistics)
+* [Histogram](#5047467346979309670bottom-5047467346979309670histogram)
+* [Common values](#5047467346979309670bottom-5047467346979309670common_values)
+* [Extreme values](#5047467346979309670bottom-5047467346979309670extreme_values)
 
 Quantile statistics
 
@@ -2806,7 +2806,7 @@ Descriptive statistics
 | Variance | 0\.53695223 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.184021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=39\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.853054image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=39\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2822,8 +2822,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.1
 | 1 | 32 | 4\.3% |
 | Other values (29\) | 224 | 30\.3% |
 
-* [Minimum 10 values](#-8760638760003401376extreme_values--8760638760003401376firstn)
-* [Maximum 10 values](#-8760638760003401376extreme_values--8760638760003401376lastn)
+* [Minimum 10 values](#5047467346979309670extreme_values-5047467346979309670firstn)
+* [Maximum 10 values](#5047467346979309670extreme_values-5047467346979309670lastn)
 
 
 
@@ -2855,7 +2855,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.1
 | 3\.1 | 2 | 0\.3% |
 | 2\.9 | 6 | 0\.8% |
 
-[DRB](#pp_var_-5577853146699564361)  
+[DRB](#pp_var_536105553434745178)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -2882,10 +2882,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.227400image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-5577853146699564361bottom--5577853146699564361statistics)
-* [Histogram](#-5577853146699564361bottom--5577853146699564361histogram)
-* [Common values](#-5577853146699564361bottom--5577853146699564361common_values)
-* [Extreme values](#-5577853146699564361bottom--5577853146699564361extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.899665image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#536105553434745178bottom-536105553434745178statistics)
+* [Histogram](#536105553434745178bottom-536105553434745178histogram)
+* [Common values](#536105553434745178bottom-536105553434745178common_values)
+* [Extreme values](#536105553434745178bottom-536105553434745178extreme_values)
 
 Quantile statistics
 
@@ -2917,7 +2917,7 @@ Descriptive statistics
 | Variance | 3\.0317877 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.276417image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:29\.949357image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -2933,8 +2933,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.2
 | 1\.8 | 20 | 2\.7% |
 | Other values (68\) | 503 | 68\.1% |
 
-* [Minimum 10 values](#-5577853146699564361extreme_values--5577853146699564361firstn)
-* [Maximum 10 values](#-5577853146699564361extreme_values--5577853146699564361lastn)
+* [Minimum 10 values](#536105553434745178extreme_values-536105553434745178firstn)
+* [Maximum 10 values](#536105553434745178extreme_values-536105553434745178lastn)
 
 
 
@@ -2966,7 +2966,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.2
 | 7\.9 | 1 | 0\.1% |
 | 7\.8 | 1 | 0\.1% |
 
-[TRB](#pp_var_2637892280950118075)  
+[TRB](#pp_var_-5838297336820241478)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -2993,10 +2993,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.319662image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#2637892280950118075bottom-2637892280950118075statistics)
-* [Histogram](#2637892280950118075bottom-2637892280950118075histogram)
-* [Common values](#2637892280950118075bottom-2637892280950118075common_values)
-* [Extreme values](#2637892280950118075bottom-2637892280950118075extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.000093image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-5838297336820241478bottom--5838297336820241478statistics)
+* [Histogram](#-5838297336820241478bottom--5838297336820241478histogram)
+* [Common values](#-5838297336820241478bottom--5838297336820241478common_values)
+* [Extreme values](#-5838297336820241478bottom--5838297336820241478extreme_values)
 
 Quantile statistics
 
@@ -3028,7 +3028,7 @@ Descriptive statistics
 | Variance | 5\.3859557 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.366865image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.075184image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3044,8 +3044,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.3
 | 1\.6 | 15 | 2\.0% |
 | Other values (92\) | 548 | 74\.2% |
 
-* [Minimum 10 values](#2637892280950118075extreme_values-2637892280950118075firstn)
-* [Maximum 10 values](#2637892280950118075extreme_values-2637892280950118075lastn)
+* [Minimum 10 values](#-5838297336820241478extreme_values--5838297336820241478firstn)
+* [Maximum 10 values](#-5838297336820241478extreme_values--5838297336820241478lastn)
 
 
 
@@ -3077,7 +3077,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.3
 | 10\.6 | 2 | 0\.3% |
 | 10\.5 | 2 | 0\.3% |
 
-[AST](#pp_var_-5798181679693878514)  
+[AST](#pp_var_1169916079887250478)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -3104,10 +3104,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.461575image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-5798181679693878514bottom--5798181679693878514statistics)
-* [Histogram](#-5798181679693878514bottom--5798181679693878514histogram)
-* [Common values](#-5798181679693878514bottom--5798181679693878514common_values)
-* [Extreme values](#-5798181679693878514bottom--5798181679693878514extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.129133image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#1169916079887250478bottom-1169916079887250478statistics)
+* [Histogram](#1169916079887250478bottom-1169916079887250478histogram)
+* [Common values](#1169916079887250478bottom-1169916079887250478common_values)
+* [Extreme values](#1169916079887250478bottom-1169916079887250478extreme_values)
 
 Quantile statistics
 
@@ -3139,7 +3139,7 @@ Descriptive statistics
 | Variance | 3\.2409167 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.510179image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.178540image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3155,8 +3155,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.5
 | 1\.2 | 28 | 3\.8% |
 | Other values (71\) | 417 | 56\.4% |
 
-* [Minimum 10 values](#-5798181679693878514extreme_values--5798181679693878514firstn)
-* [Maximum 10 values](#-5798181679693878514extreme_values--5798181679693878514lastn)
+* [Minimum 10 values](#1169916079887250478extreme_values-1169916079887250478firstn)
+* [Maximum 10 values](#1169916079887250478extreme_values-1169916079887250478lastn)
 
 
 
@@ -3188,7 +3188,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.5
 | 8 | 1 | 0\.1% |
 | 7\.5 | 1 | 0\.1% |
 
-[STL](#pp_var_3354011504831857172)  
+[STL](#pp_var_-8714171492087614519)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -3215,10 +3215,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.547794image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#3354011504831857172bottom-3354011504831857172statistics)
-* [Histogram](#3354011504831857172bottom-3354011504831857172histogram)
-* [Common values](#3354011504831857172bottom-3354011504831857172common_values)
-* [Extreme values](#3354011504831857172bottom-3354011504831857172extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.219651image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-8714171492087614519bottom--8714171492087614519statistics)
+* [Histogram](#-8714171492087614519bottom--8714171492087614519histogram)
+* [Common values](#-8714171492087614519bottom--8714171492087614519common_values)
+* [Extreme values](#-8714171492087614519bottom--8714171492087614519extreme_values)
 
 Quantile statistics
 
@@ -3250,7 +3250,7 @@ Descriptive statistics
 | Variance | 0\.15505767 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.587394image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=21\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.260089image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=21\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3266,8 +3266,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.5
 | 0\.1 | 44 | 6\.0% |
 | Other values (11\) | 123 | 16\.6% |
 
-* [Minimum 10 values](#3354011504831857172extreme_values-3354011504831857172firstn)
-* [Maximum 10 values](#3354011504831857172extreme_values-3354011504831857172lastn)
+* [Minimum 10 values](#-8714171492087614519extreme_values--8714171492087614519firstn)
+* [Maximum 10 values](#-8714171492087614519extreme_values--8714171492087614519lastn)
 
 
 
@@ -3299,7 +3299,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.5
 | 1\.2 | 20 | 2\.7% |
 | 1\.1 | 24 | 3\.2% |
 
-[BLK](#pp_var_-1760098733051661981)  
+[BLK](#pp_var_9130039927849350097)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -3326,10 +3326,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.623320image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-1760098733051661981bottom--1760098733051661981statistics)
-* [Histogram](#-1760098733051661981bottom--1760098733051661981histogram)
-* [Common values](#-1760098733051661981bottom--1760098733051661981common_values)
-* [Extreme values](#-1760098733051661981bottom--1760098733051661981extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.297761image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#9130039927849350097bottom-9130039927849350097statistics)
+* [Histogram](#9130039927849350097bottom-9130039927849350097histogram)
+* [Common values](#9130039927849350097bottom-9130039927849350097common_values)
+* [Extreme values](#9130039927849350097bottom-9130039927849350097extreme_values)
 
 Quantile statistics
 
@@ -3361,7 +3361,7 @@ Descriptive statistics
 | Variance | 0\.16058659 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.666643image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=24\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.341611image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=24\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3377,8 +3377,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.6
 | 0\.9 | 20 | 2\.7% |
 | Other values (14\) | 52 | 7\.0% |
 
-* [Minimum 10 values](#-1760098733051661981extreme_values--1760098733051661981firstn)
-* [Maximum 10 values](#-1760098733051661981extreme_values--1760098733051661981lastn)
+* [Minimum 10 values](#9130039927849350097extreme_values-9130039927849350097firstn)
+* [Maximum 10 values](#9130039927849350097extreme_values-9130039927849350097lastn)
 
 
 
@@ -3410,7 +3410,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.6
 | 1\.5 | 3 | 0\.4% |
 | 1\.4 | 2 | 0\.3% |
 
-[TOV](#pp_var_5012703423628741254)  
+[TOV](#pp_var_2467109624279755055)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -3437,10 +3437,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.708256image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#5012703423628741254bottom-5012703423628741254statistics)
-* [Histogram](#5012703423628741254bottom-5012703423628741254histogram)
-* [Common values](#5012703423628741254bottom-5012703423628741254common_values)
-* [Extreme values](#5012703423628741254bottom-5012703423628741254extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.384548image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#2467109624279755055bottom-2467109624279755055statistics)
+* [Histogram](#2467109624279755055bottom-2467109624279755055histogram)
+* [Common values](#2467109624279755055bottom-2467109624279755055common_values)
+* [Extreme values](#2467109624279755055bottom-2467109624279755055extreme_values)
 
 Quantile statistics
 
@@ -3472,7 +3472,7 @@ Descriptive statistics
 | Variance | 0\.5751915 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.751907image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=39\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.429228image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=39\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3488,8 +3488,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.7
 | 1\.2 | 32 | 4\.3% |
 | Other values (29\) | 272 | 36\.8% |
 
-* [Minimum 10 values](#5012703423628741254extreme_values-5012703423628741254firstn)
-* [Maximum 10 values](#5012703423628741254extreme_values-5012703423628741254lastn)
+* [Minimum 10 values](#2467109624279755055extreme_values-2467109624279755055firstn)
+* [Maximum 10 values](#2467109624279755055extreme_values-2467109624279755055lastn)
 
 
 
@@ -3521,7 +3521,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.7
 | 3 | 2 | 0\.3% |
 | 2\.9 | 1 | 0\.1% |
 
-[PF](#pp_var_-3739663196635928373)  
+[PF](#pp_var_-2361496977164541668)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -3548,10 +3548,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.791806image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-3739663196635928373bottom--3739663196635928373statistics)
-* [Histogram](#-3739663196635928373bottom--3739663196635928373histogram)
-* [Common values](#-3739663196635928373bottom--3739663196635928373common_values)
-* [Extreme values](#-3739663196635928373bottom--3739663196635928373extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.469155image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#-2361496977164541668bottom--2361496977164541668statistics)
+* [Histogram](#-2361496977164541668bottom--2361496977164541668histogram)
+* [Common values](#-2361496977164541668bottom--2361496977164541668common_values)
+* [Extreme values](#-2361496977164541668bottom--2361496977164541668extreme_values)
 
 Quantile statistics
 
@@ -3583,7 +3583,7 @@ Descriptive statistics
 | Variance | 0\.61510104 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.836611image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=35\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.515418image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=35\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3599,8 +3599,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.8
 | 1\.2 | 29 | 3\.9% |
 | Other values (25\) | 379 | 51\.3% |
 
-* [Minimum 10 values](#-3739663196635928373extreme_values--3739663196635928373firstn)
-* [Maximum 10 values](#-3739663196635928373extreme_values--3739663196635928373lastn)
+* [Minimum 10 values](#-2361496977164541668extreme_values--2361496977164541668firstn)
+* [Maximum 10 values](#-2361496977164541668extreme_values--2361496977164541668lastn)
 
 
 
@@ -3632,7 +3632,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.8
 | 2\.6 | 15 | 2\.0% |
 | 2\.5 | 15 | 2\.0% |
 
-[PTS](#pp_var_3043194294106382067)  
+[PTS](#pp_var_2597962084589159440)  
 Real number (ℝ)
 
 `HIGH CORRELATION`  `ZEROS`  
@@ -3659,10 +3659,10 @@ Real number (ℝ)
 | Negative (%) | 0\.0% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.879132image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#3043194294106382067bottom-3043194294106382067statistics)
-* [Histogram](#3043194294106382067bottom-3043194294106382067histogram)
-* [Common values](#3043194294106382067bottom-3043194294106382067common_values)
-* [Extreme values](#3043194294106382067bottom-3043194294106382067extreme_values)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.559425image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Statistics](#2597962084589159440bottom-2597962084589159440statistics)
+* [Histogram](#2597962084589159440bottom-2597962084589159440histogram)
+* [Common values](#2597962084589159440bottom-2597962084589159440common_values)
+* [Extreme values](#2597962084589159440bottom-2597962084589159440extreme_values)
 
 Quantile statistics
 
@@ -3694,7 +3694,7 @@ Descriptive statistics
 | Variance | 42\.014052 |
 | Monotonicity | Not monotonic |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.927424image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.607882image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/**Histogram with fixed size bins** (bins\=50\) 
 
 | Value | Count | Frequency (%) |
 | --- | --- | --- |
@@ -3710,8 +3710,8 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.9
 | 5\.3 | 9 | 1\.2% |
 | Other values (199\) | 613 | 82\.9% |
 
-* [Minimum 10 values](#3043194294106382067extreme_values-3043194294106382067firstn)
-* [Maximum 10 values](#3043194294106382067extreme_values-3043194294106382067lastn)
+* [Minimum 10 values](#2597962084589159440extreme_values-2597962084589159440firstn)
+* [Maximum 10 values](#2597962084589159440extreme_values-2597962084589159440lastn)
 
 
 
@@ -3743,7 +3743,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:32\.9
 | 26\.4 | 2 | 0\.3% |
 | 25\.9 | 2 | 0\.3% |
 
-[Awards](#pp_var_6188178778448003796)  
+[Awards](#pp_var_82161517271606683)  
 Text
 
 `MISSING`  
@@ -3757,9 +3757,9 @@ Text
 | Missing (%) | 92\.6% |
 | Memory size | 5\.9 KiB |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:33\.009508image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Overview](#6188178778448003796bottom-6188178778448003796overview)
-* [Words](#6188178778448003796bottom-6188178778448003796word)
-* [Characters](#6188178778448003796bottom-6188178778448003796characters)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.691285image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ More details * [Overview](#82161517271606683bottom-82161517271606683overview)
+* [Words](#82161517271606683bottom-82161517271606683word)
+* [Characters](#82161517271606683bottom-82161517271606683characters)
 
 Length
 
@@ -3817,10 +3817,10 @@ Sample
 | mvp\-9asnba2 | 1 | 1\.8% |
 | Other values (30\) | 30 | 54\.5% |
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:33\.138990image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/* [Characters](#6188178778448003796unicode-6188178778448003796characters)
-* [Categories](#6188178778448003796unicode-6188178778448003796categories)
-* [Scripts](#6188178778448003796unicode-6188178778448003796scripts)
-* [Blocks](#6188178778448003796unicode-6188178778448003796blocks)
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.821041image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/* [Characters](#82161517271606683unicode-82161517271606683characters)
+* [Categories](#82161517271606683unicode-82161517271606683categories)
+* [Scripts](#82161517271606683unicode-82161517271606683scripts)
+* [Blocks](#82161517271606683unicode-82161517271606683blocks)
 
 #### Most occurring characters
 
@@ -3927,7 +3927,7 @@ xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:33\.1
 Interactions
 ============
 
- Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF  PTS  PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.417576image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.314777image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.197514image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.973121image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.679957image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.472782image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.204831image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.964133image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.783044image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.511262image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.440021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.257617image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.074815image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.860309image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.664829image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.547930image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.313530image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.136021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.898588image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.706860image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.487072image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.333032image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.102949image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.919803image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.733562image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.552228image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.450025image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.357223image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.233170image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.002013image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.709847image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.503370image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.233836image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.996248image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.812895image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.542210image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.478755image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.289899image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.106717image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.890844image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.695943image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.582104image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.344662image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.167591image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.929006image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.738345image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.520169image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.365671image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.136135image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.954580image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.813935image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.585936image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.480393image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.385309image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.263602image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.027931image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.737495image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.529778image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.259947image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.024193image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.839814image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.569394image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.511221image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.318908image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.135985image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.919363image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.723035image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.610732image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.373284image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.195217image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.956964image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.767460image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.549730image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.393477image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.164506image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.986691image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.841719image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.615393image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.510046image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.415327image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.290741image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.053122image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.764682image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.556179image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.286526image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.052795image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.866338image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.597201image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.544023image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.349045image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.164397image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.947345image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.750944image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.640149image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.401272image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.223385image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.984190image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.795971image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.578442image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.421421image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.193016image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.018634image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.870360image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.645536image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.542243image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.449651image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.323852image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.080980image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.794476image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.586023image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.315176image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.083129image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.894625image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.626159image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.580736image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.380805image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.195744image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.027375image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.780157image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.670435image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.431640image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.252570image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.013740image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.826411image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.610065image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.452364image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.223097image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.050203image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.900725image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.676935image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.573329image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.546798image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.353035image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.108633image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.823126image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.613756image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.342346image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.113300image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.923332image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.657531image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.613112image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.411578image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.225884image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.056638image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.809021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.699711image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.461860image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.282235image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.043156image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.858497image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.640121image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.481728image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.254230image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.081979image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.931971image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.708623image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.603911image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.581149image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.379667image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.135472image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.850994image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.640860image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.368310image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.141457image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.949926image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.693385image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.641758image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.439423image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.255068image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.084651image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.837057image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.728418image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.489719image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.309684image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.070522image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.886858image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.669926image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.510307image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.282178image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.111366image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.959805image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.737984image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.637900image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.616287image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.410228image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.164903image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.881351image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.670647image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.445419image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.172838image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.980391image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.725370image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.676352image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.471401image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.286602image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.115032image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.867185image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.759429image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.521588image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.339893image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.101932image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.919472image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.702174image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.541536image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.313163image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.144865image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.991606image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.771394image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.668617image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.644897image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.437350image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.191259image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.909690image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.699147image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.471524image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.202500image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.007261image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.762248image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.710699image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.499949image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.316414image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.143270image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.896596image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.788889image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.550319image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.368940image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.129790image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.948890image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.732903image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.571138image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.392582image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.175741image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.019998image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.801693image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.700839image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.675040image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.465798image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.219390image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.938338image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.727122image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.499347image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.232295image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.036454image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.807078image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.746055image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.529304image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.346237image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.172856image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.926981image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.818228image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.580310image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.397791image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.159196image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.979628image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.764344image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.600410image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.421922image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.207456image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.049333image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.833507image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.731228image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.708773image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.491634image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.245710image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.966289image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.755290image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.526042image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.261168image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.063625image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.844649image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.774741image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.559197image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.375909image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.201588image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.958202image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.847799image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.609287image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.426405image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.188199image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.008686image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.795126image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.630207image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.450932image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.238571image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.078464image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.863820image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.761989image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.740068image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.517767image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.271859image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.993976image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.782400image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.553709image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.290075image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.091546image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.872979image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.804193image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.587429image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.407778image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.230503image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.991852image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.876720image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.638613image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.454501image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.216151image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.038871image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.824721image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.658840image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.479162image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.270216image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.108149image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.894916image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.793782image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.770806image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.546323image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.300869image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.023952image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.812463image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.581917image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.321411image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.120335image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.904414image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.833924image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.669700image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.439508image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.261127image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.029118image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.907331image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.669167image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.485078image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.246870image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.069962image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.856947image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.689324image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.509945image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.302687image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.139588image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.926689image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.825077image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.799766image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.572878image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.327451image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.053402image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.840023image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.608582image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.350339image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.148309image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.935882image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.862971image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.698250image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.470041image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.290120image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.064493image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.936114image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.698704image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.513167image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.275127image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.099209image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.936260image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.719070image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.538927image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.333697image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.168673image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.958037image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.855045image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.828872image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.601486image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.353844image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.080970image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.866751image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.635630image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.379694image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.175089image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.972787image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.890622image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.725228image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.499732image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.317907image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.098274image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.963863image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.727414image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.545276image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.303742image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.128533image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.965557image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.747466image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.568105image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.363301image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.197093image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.988846image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.885857image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.857764image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.629143image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.380270image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.158163image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.894602image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.662265image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.408315image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.202387image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.006682image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.919451image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.752916image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.530457image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.347232image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.133820image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.992432image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.755801image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.573928image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.331664image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.157344image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.995693image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.776647image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.597298image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.393170image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.226267image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.021901image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.916753image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.887640image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.656155image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.407870image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.187036image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.922775image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.690170image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.438669image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.231047image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.036810image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.950978image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.781305image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.560052image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.376053image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.163849image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.021241image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.785905image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.604691image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.360299image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.188263image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.027138image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.805968image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.626449image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.424781image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.255335image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.054916image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.947773image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.921042image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.683194image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.434169image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.214950image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.950746image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.716786image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.467474image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.258048image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.125261image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.981619image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.809462image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.589780image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.403988image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.195487image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.050039image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.814968image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.634076image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.438177image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.217238image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.057828image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.835442image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.655731image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.454755image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.285003image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.085865image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.979464image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.950427image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.708654image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.459730image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.242080image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.977153image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.743721image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.496309image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.285702image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.156985image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.008827image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.836833image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.618459image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.432272image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.223594image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.077595image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.848373image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.663063image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.465898image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.246490image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.086891image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.864711image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.683523image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.484922image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.312967image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.116889image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.010301image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:08\.979500image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.735881image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.486923image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.271012image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.005955image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.770361image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.525290image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.313248image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.193256image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.037555image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.866773image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.648503image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.459929image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.252153image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.106523image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.877310image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.692175image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.495169image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.275248image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.117205image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.892863image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.712115image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.515092image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.342682image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.147231image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.042079image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.009350image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.763854image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.514919image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.300263image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.034982image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.798445image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.556207image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.342622image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.228787image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.072643image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.898252image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.678996image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.490253image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.283362image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.137110image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.908265image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.721928image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.525205image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.305677image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.148031image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.923813image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.742801image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.547572image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.372766image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.229223image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.073000image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.037836image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.790721image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.542407image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.328652image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.063533image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.825674image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.585260image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.370041image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.265507image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.105730image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.927797image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.708761image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.518749image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.312147image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.165557image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.986320image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.751684image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.554410image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.335594image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.178131image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.952356image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.771381image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.577674image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.401613image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.259895image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.102974image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.066203image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.861456image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.568540image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.355930image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.089955image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.851845image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.614358image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.396955image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.305145image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.138366image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.955281image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.737676image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.547273image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.341152image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.194095image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.014659image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.779512image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.583274image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.364558image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.207420image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.981361image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.799780image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.607803image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.431677image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.290345image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.135091image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.096089image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.890430image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.597591image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.386517image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.119615image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.881029image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.644834image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.426591image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.342844image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.169499image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.986707image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.769403image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.576912image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.372254image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.224681image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.045903image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.809344image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.614151image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.395855image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.240565image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.013463image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.829915image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.639263image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.462189image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.323358image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.165428image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.124824image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.916492image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.623098image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.413676image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.146092image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.906753image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.721292image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.452979image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.374235image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.198736image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.015373image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.797826image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.604396image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.402796image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.252864image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.074224image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.837982image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.645410image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.424795image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.269379image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.042282image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.858282image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.669448image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.490723image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.353664image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.197062image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.158187image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:09\.944508image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:10\.651450image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:11\.443619image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.175264image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:12\.935910image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:13\.751925image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:14\.482641image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:15\.408434image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:16\.228231image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.044954image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:17\.829238image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:18\.635121image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:19\.512621image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:20\.282942image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.105532image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:21\.867926image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:22\.675686image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:23\.456601image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:24\.301795image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.072760image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:25\.889450image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:26\.701156image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:27\.521211image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:28\.385283image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/Correlations
+ Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF  PTS  PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.684747image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.342949image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.327669image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.151817image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.984167image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.486760image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.608688image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.637045image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.528478image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.363647image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.583854image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.405924image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.456801image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.568819image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.653990image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.733558image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.749771image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.954592image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.437547image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.634179image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.522669image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.697435image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.194859image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.234150image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.188501image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.285918image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.739277image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.387789image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.360495image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.181393image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.016238image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.545979image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.671981image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.670245image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.561823image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.395594image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.624066image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.444199image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.490409image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.608869image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.711443image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.785494image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.784109image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.015858image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.470514image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.667460image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.562814image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.749457image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.229106image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.271317image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.221784image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.347444image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.790784image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.424146image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.388766image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.208501image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.050173image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.584128image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.751275image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.699545image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.590677image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.423194image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.652671image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.473477image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.522320image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.650055image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.770047image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.814841image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.813958image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.073241image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.499463image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.696698image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.608629image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.780459image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.259662image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.327593image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.252075image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.423694image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.853682image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.461398image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.416713image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.234920image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.106047image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.614076image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.803639image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.729577image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.618786image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.455176image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.682790image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.501985image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.553070image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.688719image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.828234image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.856494image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.844605image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.129760image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.528319image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.724955image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.668803image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.812998image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.289470image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.361644image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.280922image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.488133image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.919860image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.498904image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.454655image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.264276image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.174148image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.645307image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.969603image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.762189image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.651114image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.495006image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.713308image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.533236image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.586774image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.731002image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.908414image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.917641image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.878908image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.191605image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.616059image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.756554image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.735440image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.865676image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.322136image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.396305image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.313505image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.553856image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.987707image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.575683image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.489321image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.292020image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.240349image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.677729image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.010654image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.796237image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.681269image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.551830image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.752147image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.563008image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.641346image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.766674image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.958850image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.974186image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.909159image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.248065image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.653829image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.786999image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.783509image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.926222image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.372712image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.428763image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.347630image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.614488image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.051866image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.604152image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.518689image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.318289image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.299055image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.706694image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.047804image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.829303image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.713184image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.607754image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.784416image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.591059image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.702561image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.803700image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.000215image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.011244image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.951966image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.301101image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.707944image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.817019image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.833832image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.972829image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.417231image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.459489image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.376669image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.806684image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.103523image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.637658image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.550524image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.348561image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.358144image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.739810image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.083267image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.862798image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.744884image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.674405image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.815941image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.690692image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.782759image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.850873image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.037780image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.050886image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.014588image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.365100image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.765623image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.848339image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.869720image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.026360image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.476243image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.492369image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.433110image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.842441image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.158201image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.667300image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.579812image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.375791image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.408724image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.769784image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.112542image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.895824image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.773339image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.711070image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.851014image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.720225image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.843690image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.885722image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.067892image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.088754image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.073826image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.422924image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.820422image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.880196image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.901320image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.075565image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.536547image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.524425image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.490317image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.906503image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.203802image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.702490image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.615082image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.404493image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.440237image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.814404image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.141510image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.929384image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.802997image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.773423image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.891357image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.753646image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.883401image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.921116image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.107470image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.131275image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.108160image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.487470image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.889110image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.912639image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.933406image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.150223image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.594980image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.555598image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.560466image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.956933image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.265730image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.743221image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.647239image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.431740image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.471403image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.862215image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.171978image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.962164image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.831118image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.835230image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.927699image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.801245image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.915347image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.952324image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.146486image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.161141image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.139160image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.542900image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.941494image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.941745image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.964386image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.212755image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.629122image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.586823image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.602634image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.000301image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.325152image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.781856image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.678006image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.460043image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.502051image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.913153image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.202071image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.995784image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.861773image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.864830image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.956814image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.854634image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.945972image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.983175image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.177587image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.191215image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.170497image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.600009image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.004269image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.971363image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.998024image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.246079image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.660349image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.671329image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.635103image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.033500image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.390187image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.822203image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.712322image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.488989image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.535377image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.970552image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.232419image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.028112image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.891523image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.896964image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.987896image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.903261image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.978635image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.017699image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.211877image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.223748image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.214641image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.669396image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.061910image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.002716image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.071547image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.283352image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.716219image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.704164image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.667436image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.066997image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.445356image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.860121image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.742514image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.517352image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.583337image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.022259image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.262081image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.058732image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.920441image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.926704image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.016280image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.944682image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.010657image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.070530image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.240690image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.254033image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.390757image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.743005image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.122626image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.037386image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.126300image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.331908image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.773741image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.735522image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.698922image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.101928image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.476493image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.899520image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.770348image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.543986image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.640600image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.061380image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.289806image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.088257image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.948279image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.045619image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.044917image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.975106image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.044742image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.124426image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.268773image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.283993image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.423767image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.808008image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.178299image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.071802image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.185846image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.377182image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.812235image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.766123image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.760112image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.136805image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.509577image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.939580image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.798044image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.571095image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.823335image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.096745image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.319507image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.118627image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.980584image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.100205image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.073108image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.004496image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.085589image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.195106image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.298897image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.313309image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.455412image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.868492image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.231810image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.103627image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.242098image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.431635image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.853978image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.797277image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.821130image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.173036image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.542685image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:56\.977122image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.828023image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.607816image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.886611image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.156298image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.348590image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.149202image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.011949image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.158710image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.102258image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.034969image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.143894image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.255984image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.328986image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.346879image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.486990image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:13\.941384image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.290771image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.133797image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.317425image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.488749image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.905921image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.829759image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.883367image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.205817image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.575852image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.014890image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.854888image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.639642image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:59\.947474image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.224741image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.378252image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.179468image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.040580image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.212393image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.131917image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.064110image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.193339image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.315300image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.361565image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.378434image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.517830image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.006253image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.340281image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.163263image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.377327image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.682726image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.950130image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.862734image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.935232image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.239803image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.609172image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.052706image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.881290image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.669153image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.004265image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.286700image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.406080image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.208327image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.068390image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.263922image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.163167image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.104783image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.241980image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.361709image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.389168image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.409918image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.548772image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.071670image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.373199image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.192943image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.425937image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.737804image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.985097image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.892545image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.963979image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.285887image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.641785image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.092251image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.955498image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.702049image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.064755image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.344291image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.433985image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.238425image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.110441image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.299831image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.192419image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.139255image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.290506image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.397610image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.418693image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.446480image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.578660image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.130015image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.403253image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.222323image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.469678image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.796676image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.017563image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.926277image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.995180image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.327555image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.684776image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.126693image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.983639image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.742146image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.128048image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.396414image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.463784image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.270763image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.176364image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.331992image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.222571image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.174557image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.322972image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.452219image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.500855image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.478647image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.611409image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.190127image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.434988image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.257224image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.502883image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.855721image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.049355image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.959330image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.026674image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.376399image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.746016image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.157116image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.011608image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.798238image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.185611image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.426595image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.491173image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.302110image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.212778image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.361828image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.251839image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.223488image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.354598image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.482664image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.529262image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.507754image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.663050image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.251853image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.465966image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.295826image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.533566image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.923413image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.080399image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.994789image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.057171image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.432390image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:24\.807427image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.188208image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.038057image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.857242image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.246648image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.456040image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.519065image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.385257image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.242660image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.390969image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.279880image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.279507image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.384575image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.513410image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.557533image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.537763image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.714711image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.297561image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.495436image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.330534image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.565344image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:18\.987504image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.110001image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.025271image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.088520image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.488660image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.019802image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.221516image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.067436image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.894879image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.313884image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.488492image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.548555image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.416942image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.274083image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.424885image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.311677image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.335687image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.417864image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.544992image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.587714image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.594021image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.773734image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.342467image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.527603image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.365881image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.599143image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.068647image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.142421image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.057561image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.121785image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.532163image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.074663image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.253775image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.093597image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.923011image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.358818image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.517705image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.578300image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.454224image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.302892image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.461961image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.340203image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.386660image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.448486image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.575499image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.619142image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.663939image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.832683image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.371802image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.556965image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.398967image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.629835image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.122683image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.171680image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.109128image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.155107image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.563478image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ PTS  Age  G  GS  MP  FG  FGA  FG%  3P  3PA  3P%  2P  2PA  2P%  eFG%  FT  FTA  FT%  ORB  DRB  TRB  AST  STL  BLK  TOV  PF xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.116918image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:57\.289337image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.122296image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:39:58\.954594image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:00\.424312image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:01\.552558image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:02\.608109image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:03\.493697image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:04\.333743image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:05\.524300image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:06\.370423image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:07\.425370image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:08\.537193image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:09\.607586image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:10\.666024image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:11\.716899image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:12\.891411image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:14\.404809image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:15\.590948image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:16\.488427image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:17\.662964image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:19\.161523image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:20\.202710image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:21\.154773image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:22\.219635image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:23\.621479image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/Correlations
 ============
 
 * [Auto](#correlations_tab-auto_diagram_table)
@@ -3935,7 +3935,7 @@ Interactions
 * [Heatmap](#auto_diagram_table-auto_diagram)
 * [Table](#auto_diagram_table-auto_table)
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:33\.190281image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:30\.933704image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/
 
 |  | 2P | 2P% | 2PA | 3P | 3P% | 3PA | AST | Age | BLK | DRB | FG | FG% | FGA | FT | FT% | FTA | G | GS | MP | ORB | PF | PTS | Pos | STL | TOV | TRB | Team | eFG% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3975,7 +3975,7 @@ Missing values
 * [Matrix](#missing-matrix)
 * [Heatmap](#missing-heatmap)
 
-xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.257580image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ A simple visualization of nullity by column. xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.386345image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ Nullity matrix is a data\-dense display which lets you quickly visually pick out patterns in data completion. xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-16T00:45:29\.505176image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ The correlation heatmap measures nullity correlation: how strongly the presence or absence of one variable affects the presence of another. Sample
+xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.192294image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ A simple visualization of nullity by column. xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.291019image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ Nullity matrix is a data\-dense display which lets you quickly visually pick out patterns in data completion. xml version\="1\.0" encoding\="utf\-8" standalone\="no"?2024\-09\-22T22:40:25\.415329image/svg\+xmlMatplotlib v3\.8\.4, https://matplotlib.org/ The correlation heatmap measures nullity correlation: how strongly the presence or absence of one variable affects the presence of another. Sample
 ======
 
 * [First rows](#sample-head)
